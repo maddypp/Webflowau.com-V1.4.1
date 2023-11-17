@@ -1,0 +1,17 @@
+.p {
+    width: 50%;
+}
+
+.pt {
+    width: 100%;
+}
+
+.okaay {
+    visibility: hidden;
+    background-color: black;
+    color: white;
+    margin: 3px;
+    border: 2px solid black;
+
+}
+

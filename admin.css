@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+
+.quotes {
+    float: left;
+    display: block;
+}
+
+.passwordrequests {
+    display: block;
+    float: right;
+}
+

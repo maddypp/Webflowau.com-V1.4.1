@@ -1,0 +1,18 @@
+.ainput1 {
+    width: 300px;
+    text-align: center;
+}
+
+.ainput2 {
+    width: 300px;
+    text-align: center;
+}
+
+.abtn-login {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#incorrect {
+    color: red;
+}
